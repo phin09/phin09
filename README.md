@@ -1,4 +1,12 @@
-### Hi there 👋
+## BACKEND DEVELOPER
+Python, Django and JavaScript(nowadays)
+
+# EMAIL
+sy6kang@gmail.com
+
+# BLOG
+TIL    : [phin09.github.io](https://phin09.github.io/)
+OTHERS : [phin09.tistory.com](https://phin09.github.io/)
 
 <!--
 **phin09/phin09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
