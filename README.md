@@ -1,10 +1,10 @@
 ## BACKEND DEVELOPER
 Python, Django and JavaScript(nowadays)
 
-# EMAIL
+### EMAIL
 sy6kang@gmail.com
 
-# BLOG
+### BLOG
 TIL    : [phin09.github.io](https://phin09.github.io/)
 OTHERS : [phin09.tistory.com](https://phin09.github.io/)
 
