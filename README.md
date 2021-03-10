@@ -5,7 +5,7 @@ Python, Django and JavaScript(nowadays)
 sy6kang@gmail.com
 
 ### BLOG
-TIL    : [phin09.github.io](https://phin09.github.io/)
+TIL    : [phin09.github.io](https://phin09.github.io/)   
 OTHERS : [phin09.tistory.com](https://phin09.github.io/)
 
 <!--
