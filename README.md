@@ -1,5 +1,6 @@
 ## BACKEND DEVELOPER
-Python, Django and JavaScript(nowadays)
+Python, Django,
+TypeScript, Nest JS (nowadays)
 
 ### EMAIL
 sy6kang@gmail.com
